@@ -1,6 +1,9 @@
 - id: "add_to_cart"
   translation: "Add to Cart"
-  
+
+- id: "contact_now"
+  translation: "Contact Now"
+    
 - id: "send"
   translation: "Send Now"
   

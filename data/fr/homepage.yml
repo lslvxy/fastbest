@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Believe in Technology, Make the change"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
+  image : "images/watch.jpg"
   button:
    enable : true
    label : "Browse All Products"
@@ -13,7 +13,7 @@ banner:
 features:
   enable : true
   title : "Our Core Features"
-  image : "images/watch-2.png"
+  image : "images/watch-2.jpg"
 
   # feature at the left of the image
   left_side:
@@ -54,7 +54,7 @@ features:
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/watch.png"
+  image : "images/watch.jpg"
   title : "Designed by professional , the benefit for creative gigs"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
             nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
@@ -68,7 +68,7 @@ about_product:
   title : "Why Choose Apple Watch"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
+    - image : "images/showcase/showcase-4.jpg"
       title : "Lorem ipsum dolor sit amet."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
@@ -79,7 +79,7 @@ about_product:
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/showcase-3.png"
+    - image : "images/showcase/showcase-3.jpg"
       title : "Lorem ipsum dolor sit amet."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit

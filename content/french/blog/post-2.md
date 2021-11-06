@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi acheter une montre intelligente."
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-2.png"
+image: "images/showcase/showcase-2.jpg"
 description : "this is a meta description"
 draft: false
 ---
