@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://fastbest.laysan.site/"
-title = "Vex | hugo landing page template"
+title = "Fastbest"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
