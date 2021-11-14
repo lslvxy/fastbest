@@ -47,20 +47,73 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
-url = "products"
+name = "Category"
+url = "category"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 3
+name = "Concrete Cutter"
+url = "concrete_cutter"
+weight = 1
+parent = "Category"
 
 [[menu.main]]
-name = "Review"
-pre = "#"
-url = "testimonial"
+name = "Plate Compactor"
+url = "plate_compactor"
+weight = 2
+parent = "Category"
+
+[[menu.main]]
+name = "Tamping Rammer"
+url = "tamping_rammer"
+weight = 3
+parent = "Category"
+
+[[menu.main]]
+name = "Power Trowel"
+url = "power_trowel"
 weight = 4
+parent = "Category"
+
+[[menu.main]]
+name = "Surface Finishing Screed"
+url = "surface_finishing_screed"
+weight = 5
+parent = "Category"
+
+[[menu.main]]
+name = "Grooving Machine"
+url = "grooving_machine"
+weight = 6
+parent = "Category"
+
+[[menu.main]]
+name = "Concrete Vibrator"
+url = "concrete_vibrator"
+weight = 7
+parent = "Category"
+
+[[menu.main]]
+name = "Vibrator Rollor"
+url = "vibrator_rollor"
+weight = 8
+parent = "Category"
+
+# [[menu.main]]
+# name = "Products"
+# url = "products"
+# weight = 2
+
+# [[menu.main]]
+# name = "Blog"
+# url = "blog"
+# weight = 3
+
+# [[menu.main]]
+# name = "Review"
+# pre = "#"
+# url = "testimonial"
+# weight = 4
 
 [[menu.main]]
 name = "Contact"

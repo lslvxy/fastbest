@@ -1,12 +1,12 @@
 ---
 title: "Surface Finishing Screed"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/surface finishing screed/FS-SF35.jpg"
+image: "images/showcase/surface finishing screed/SF35.jpg"
 images: 
-  - "images/showcase/surface finishing screed/FS-SF35.jpg"
-  - "images/showcase/surface finishing screed/FS-SF35.jpg"
-  - "images/showcase/surface finishing screed/FS-SF35.jpg"
-  - "images/showcase/surface finishing screed/FS-SF35.jpg"
+  - "images/showcase/surface finishing screed/SF35.jpg"
+  - "images/showcase/surface finishing screed/SF35.jpg"
+  - "images/showcase/surface finishing screed/SF35.jpg"
+  - "images/showcase/surface finishing screed/SF35.jpg"
 
 # meta description
 description : "this is meta description"

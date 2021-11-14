@@ -1,0 +1,77 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 mb-4 mb-md-0">
+        <!-- product image slider -->
+          {{ range .Params.images }}
+          <div data-image="{{ . | absURL }}">
+            <img class="img-fluid w-100" src="{{ . | absURL }}" alt="product-image">
+          </div>
+          {{ end }}
+      </div>
+      <div class="col-lg-7 col-md-7 offset-lg-1">
+        <h1 class="mb-4">{{ .Title }}</h1>
+        <div >
+          <table border="1px solid #ccc">
+            <tr>
+                <td>Model</td>
+                {{ range .Params.models }}
+                  <td style="min-width: 80px;">{{.}}</td>
+                {{ end }}
+            </tr>
+            <tr>
+                <td>Engine type</td>
+                {{ range .Params.engineTypes }}
+                  <td>{{.}}</td>
+                {{ end }}
+            </tr>
+            <tr>
+                <td>Engine</td>
+                {{ range .Params.engines }}
+                <td><img class="img-fluid w-100" src="{{ . | absURL }}" alt="product-image"></td>
+                {{ end }}
+            </tr>
+            <tr>
+                <td>Engine Power(Hp)</td>
+                {{ range .Params.enginePowers }}
+                  <td>{{.}}</td>
+                {{ end }}
+            </tr>
+            <tr>
+                <td>Operating Weight (kg)</td>
+                {{ range .Params.operatingWeight }}
+                  <td>{{.}}</td>
+                {{ end }}
+            </tr>
+            <tr>
+                <td>Max, cutting depth(cm)</td>
+                <td colspan=4 align="center">{{.Params.cuttingDepth}}</td>
+            </tr>
+            <tr>
+                <td>Driving mode</td>
+                <td colspan=4 align="center">{{.Params.drivingMode}}</td>
+            </tr>
+            <tr>
+                <td>Water tank capacity(L)</td>
+                <td  colspan=4 align="center">{{.Params.waterTankCapacity}}</td>
+            </tr>
+            <tr>
+                <td>Blade Size (mm)</td>
+                <td colspan=4 align="center">{{.Params.bladeSize}}</td>
+            </tr>
+            <tr>
+                <td>Package size(L*W*H)(mm)</td>
+                <td colspan=4 align="center">{{.Params.packageSize}}</td>
+            </tr>
+        </table>
+        </div>
+        <br>
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
