@@ -5,21 +5,17 @@
 		 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="/">Home</a></li>
-      <li class="breadcrumb-item"><a href="/plate_compactor">Plate Compactor</a></li>
+      <li class="breadcrumb-item"><a href="/faq">FAQ </a></li>
       <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
     </ol>
   </nav>
-</div>
    
+  </div>
   <div class="container">
     <div class="row">
       <div class="col-md-4 mb-4 mb-md-0">
         <!-- product image slider -->
-          {{ range .Params.images }}
-          <div data-image="{{ . | absURL }}">
-            <img class="img-fluid w-100" src="{{ . | absURL }}" alt="product-image">
-          </div>
-          {{ end }}
+         1111
       </div>
       <div class="col-lg-7 col-md-7 offset-lg-1">
         <h1 class="mb-4">{{ .Title }}</h1>

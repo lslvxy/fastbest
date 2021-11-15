@@ -4,6 +4,9 @@ banner:
   title : "Believe in Technology, Make the change"
   content : "FAST concrete cutter can be widely used in service work, road maintenance, relief effort etc."
   image : "images/watch.jpg"
+  banner1: "images/banner/banner1.jpg"
+  banner2: "images/banner/banner2.jpg"
+  banner3: "images/banner/banner3.jpg"
   button:
    enable : true
    label : "Browse All Products"
