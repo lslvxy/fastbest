@@ -7,6 +7,7 @@ images:
   - "images/showcase/surface finishing screed/SF35.jpg"
   - "images/showcase/surface finishing screed/SF35.jpg"
   - "images/showcase/surface finishing screed/SF35.jpg"
+link: "/surface_finishing_screed/"
 
 # meta description
 description : "this is meta description"

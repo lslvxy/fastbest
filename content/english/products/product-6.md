@@ -3,6 +3,7 @@ title: "Grooving Machine"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/grooving machine/180K.jpg"
+link: "/grooving_machine/"
 
 # meta description
 description : "this is meta description"

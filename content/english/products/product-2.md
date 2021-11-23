@@ -6,6 +6,7 @@ images:
   - "images/showcase/plate compactor/C60-1.jpg"
   - "images/showcase/plate compactor/C100.jpg"
   - "images/showcase/plate compactor/R90T.jpg"
+link: "/plate_compactor/"
 
 # meta description
 description : "this is meta description"

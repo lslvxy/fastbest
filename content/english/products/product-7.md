@@ -5,6 +5,7 @@ images:
   - "images/showcase/concrete vibrator/3-13.jpg"
   - "images/showcase/concrete vibrator/3-19.jpg"
   - "images/showcase/concrete vibrator/3-20.jpg"
+link: "/concrete_vibrator/"
 
 # meta description
 description : "this is meta description"

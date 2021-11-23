@@ -11,7 +11,7 @@ images:
   # - "images/showcase/concrete cutter/22F.jpg"
   # - "images/showcase/concrete cutter/Q300.jpg"
   - "images/showcase/concrete cutter/Q450.jpg"
-
+link: "/concrete_cutter/"
 # meta description
 description : "this is meta description"
 

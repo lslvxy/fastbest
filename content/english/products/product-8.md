@@ -6,6 +6,7 @@ images:
   - "images/showcase/vibrator rollor/3-24.jpg"
   - "images/showcase/vibrator rollor/3-25.jpg"
   - "images/showcase/vibrator rollor/3-31.jpg"
+link: "/vibrator_rollor/"
 
 # meta description
 description : "this is meta description"

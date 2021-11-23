@@ -5,6 +5,7 @@ images:
   - "images/showcase/power trowel/PT24.jpg"
   - "images/showcase/power trowel/PT36.jpg"
   - "images/showcase/power trowel/PT36F.jpg"
+link: "/power_trowel/"
 
 # meta description
 description : "this is meta description"

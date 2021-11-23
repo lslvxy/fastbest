@@ -6,6 +6,7 @@ images:
   - "images/showcase/tamping rammer/RM80.jpg"
   - "images/showcase/tamping rammer/RM90.jpg"
   - "images/showcase/tamping rammer/RM90D.jpg"
+link: "/tamping_rammer/"
 
 # meta description
 description : "this is meta description"
